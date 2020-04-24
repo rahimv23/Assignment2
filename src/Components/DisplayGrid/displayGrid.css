@@ -1,0 +1,7 @@
+card {
+    border-color: FFDE00;
+}
+
+.mb-1 {
+    margin-left: ($spacer * .25) !important;
+  }
